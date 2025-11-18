@@ -31,6 +31,4 @@ Dataset: https://www.kaggle.com/code/sasakitetsuya/movie-rating-analysis
 
 ## Description 
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
-
-For our Unit #2 project, we decided to create an app that displays movie information 
+For our Unit #2 project, my partner and I created an app that focuses on helping movie enthusiasts discover popular movies based on a dataset/survey containing movie titles, popularity, release years, and vote count. We used multiple 1D arrays to store each column of the dataset stored in text files, keeping all of the information aligned using matching indexes. These arrays were then used to construct Movie objects, which were stored in a larger Movie array that the rest of the program could manipulate and analyze. We used methods like filterProperty() to filter the data and identify the movies with high popularity ratings. This helps users know which films are worth watching or recommending. Lastly, we override the toString() method in the Movie class so that each Movie in the Movie array can be displayed in a clear, organized format.
