@@ -27,7 +27,7 @@ Dataset: https://www.kaggle.com/code/sasakitetsuya/movie-rating-analysis
 
 ## UML Diagram 
 
-![UML Diagram](<Screenshot 2025-11-17 141736.png>)
+![UML Diagram](image.png)
 
 ## Description 
 
